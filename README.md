@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedmag&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedmag&theme=dracula&rank_icom=github" />
   </a>
  </div>
  <div>
